@@ -1,4 +1,3 @@
-<img src="https://github.com/risiin.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
 
 # Risin
 ### Computer Science Student
