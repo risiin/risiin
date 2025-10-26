@@ -1,4 +1,4 @@
-<img src="https://github.com/risiin.jpeg" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
+<img src="https://github.com/risiin.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
 
 # Risin
 ### Computer Science Student
@@ -20,7 +20,7 @@ Mostly do UI Design and Front-end Development (mainly Web and Mobile). Currently
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=risiin&theme=dark" alt="GitHub Streak" />
 </p>
 
-🤝 **Connect With Me**
+🤝 **Socials and Contacts for Business Inquiries!**
 - [GitHub](https://github.com/risiin)
 - [LinkedIn](https://www.linkedin.com/in/christine-loberes-39922a360/)
 - [Email](mailto:christinealoberes@gmail.com)
